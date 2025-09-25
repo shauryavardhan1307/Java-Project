@@ -56,18 +56,8 @@ Student Name: Cannot contain digits.
 Course Name: Only letters and spaces allowed.
 
 Course Credit: Must be positive integer.
-CGPA and Grade Calculation
-Grade points table:
 
-Grade	Marks	Points
-S	≥ 90	10
-A	≥ 80	9
-B	≥ 70	8
-C	≥ 60	7
-D	≥ 50	6
-5	≥ 40 < 50	5
-F	< 40	0
-CGPA formula:
+CGPA calculation:
 CGPA
 =
 ∑
@@ -85,11 +75,6 @@ CGPA=
 ∑(credits×grade points)
  
 
-Debarring:
-Any course attendance < 75% leads to automatic debarring and marks set to 0 (grade F).
-Attendance: 0.0 – 100.0 only.
-
-Marks: 0 – 100 only.
-
+Student details listing with all course info, grades, CGPA, and debar status
 
 
